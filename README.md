@@ -4,7 +4,7 @@ r<h1>Hi, I'm Sesar, an <a href="https://linkedin.com/in/Josh">IT Professional</a
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/sesarlopez22/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/sesarlopez/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/sesarlopez22/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sesarlopez22/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sesarlopez22/configure-ad)
