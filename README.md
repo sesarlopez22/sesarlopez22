@@ -8,7 +8,7 @@ r<h1>Hi, I'm Sesar, an <a href="https://linkedin.com/in/Josh">IT Professional</a
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sesarlopez22/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sesarlopez22/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sesarlopez/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sesarlopez22/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
